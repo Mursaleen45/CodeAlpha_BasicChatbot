@@ -12,7 +12,7 @@ The chatbot interacts with users and provides responses based on their messages.
 - Tells its name.
 - Displays current date and time.
 - Provides help instructions.
-- Ends the conversation when the user types bye.
+- Ends the conversation when the user types bye..
 
 ## Technologies Used
 - Python
